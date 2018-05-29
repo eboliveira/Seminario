@@ -6,13 +6,13 @@
 
 ---
 
-<div style="text-align: right"> Parallel Queries no PostgreSQL </div>
+<div = class="titulo">
+  Introdução
+</div>
 
 <br>
 
-@fa[arrows gp-tip](Press F to go Fullscreen)
 
-@fa[microphone gp-tip](Press S for Speaker Notes)
 
 ---
 
