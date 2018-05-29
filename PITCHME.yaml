@@ -9,7 +9,7 @@ theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : github-gist
 logo : assets/image/logo.png
-background : assets/image/binary-strings-white.jpg
+background : assets/image/binary-strings-white.png
 background-opacity : 0
 transition : none
 published : true
