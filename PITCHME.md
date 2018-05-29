@@ -6,7 +6,7 @@
 
 ---
 
-## Tips!
+<div style="text-align: right"> Parallel Queries no PostgreSQL </div>
 
 <br>
 
