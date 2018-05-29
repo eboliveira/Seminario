@@ -1,8 +1,8 @@
 # Parallel Queries no PostgreSQL
 
-## Eduardo Barbosa de Oliveira
-## Rafael Rampin Soratto
-### Universidade Tecnológica Federal do Paraná
+### Eduardo Barbosa de Oliveira
+### Rafael Rampin Soratto
+#### Universidade Tecnológica Federal do Paraná
 
 ---
 
