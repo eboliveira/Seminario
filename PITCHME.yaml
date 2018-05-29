@@ -10,7 +10,7 @@ theme-override : assets/css/PITCHME.css
 highlight : github-gist
 logo : assets/image/logo.png
 background : assets/image/binary-strings-white.jpg
-background-opacity : 5
+background-opacity : 0.1
 transition : none
 published : true
 footnote : "GitPitch [ White Binary ] Presentation Template"
