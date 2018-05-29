@@ -1,6 +1,8 @@
-# White Binary
+# Parallel Queries no PostgreSQL
 
-### A GitPitch Presentation Template
+## Eduardo Barbosa de Oliveira
+## Rafael Rampin Soratto
+###Universidade Tecnológica Federal do Paraná
 
 ---
 
